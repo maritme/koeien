@@ -1,0 +1,105 @@
+header {
+    width: 100%;
+    height: 50px;
+    background-color: aqua;
+}
+
+footer{
+    width: 100%;
+    height: 50px;
+    background-color: darkgray;
+}
+
+img {
+    height: 150px;
+}
+
+#woord_een{
+    background-color: #50C878;
+}
+
+#woord_twee{
+    background-color: #5F8575;
+}
+
+#woord_drie{
+    background-color: #4F7942;
+}
+
+#woord_vier{
+    background-color: #228B22;
+}
+#woord_vijf{
+    background-color: #90EE90;
+}
+
+#woord_zes{
+    background-color: #32CD32;
+}
+
+#woord_zeven{
+    background-color: #98FB98;
+}
+
+#woord_acht{
+    background-color:  	#2E8B57;
+}
+
+#foto_een {
+    background-color: #0096FF;
+}
+
+#foto_twee {
+    background-color: #6495ED;
+}
+
+#foto_drie {
+    background-color:  	#00008B;
+}
+
+#foto_vier {
+    background-color: #7DF9FF;
+}
+
+#foto_vijf {
+    background-color: #3F00FF;
+}
+
+#foto_zes {
+    background-color: #000080;
+}
+
+#foto_zeven {
+    background-color:  	#87CEEB;
+}
+#foto_acht {
+    background-color: #4682B4;
+}
+
+#brown{
+    background-color:  	#E97451;
+}
+
+#fleck{
+    background-color: #DE3163;
+}
+
+#friesh{
+    background-color: #F88379;
+}
+#friesrb{
+    background-color: #FAA0A0;
+}
+#groning{
+    background-color: #FA8072;
+}
+#holstein{
+    background-color: #E3735E;
+}
+#jersey{
+    background-color: #FA5F55;
+}
+#montbeliarde{
+    background-color: red;
+    color: white;
+}
